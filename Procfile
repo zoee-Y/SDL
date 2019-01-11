@@ -1,1 +1,1 @@
-web: gunicorn SDL:app
+web: gunicorn SDL:sdl-itp112
