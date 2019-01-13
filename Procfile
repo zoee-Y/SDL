@@ -1,1 +1,1 @@
-web: gunicorn SDL:app.py
+web: gunicorn SDL:app
